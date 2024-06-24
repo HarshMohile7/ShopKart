@@ -1,0 +1,36 @@
+backend commands to integrate
+npm init
+press enter enter last ko yes
+
+package json file will get created in backend folder
+
+now install dependencies
+
+->npm install express
+
+->npm install jsonwebtoken
+
+we will add mongoose 
+-> npm install mongoose
+
+-> npm install multer(to store images that we upload in admin panel)
+
+-> npm install cors(to access the permission for backend)
+
+admin-
+npm create vite@latest .
+y - enter
+select react
+select javascript
+
+npm install
+
+npm run dev
+
+one link will be provided
+local: ____ paste this link in browser
+
+after successful completion of admin panel blank page 
+we'll install dom 
+
+npm install react-router-dom
